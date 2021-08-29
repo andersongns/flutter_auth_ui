@@ -1,16 +1,4 @@
-# flutter_auth_ui
+![Flutter Auth UI](./docs/ui.png)
+# [Flutter Auth UI](https://www.youtube.com/watch?v=ExKYjqgswJg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nós projetamos três telas, primeiro uma é uma tela de boas-vindas, como quando o usuário abre o aplicativo, depois ele mostra que o usuário tem duas opções se ele/ela tem uma conta, em seguida, pressione o botão de login e simplesmente o desloca para a tela de login ou se ele/ela não tem uma conta, em seguida, pressione o botão de inscrição para transferi-la para a tela de inscrição.
